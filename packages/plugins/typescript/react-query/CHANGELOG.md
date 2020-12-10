@@ -1,5 +1,13 @@
 # @graphql-codegen/typescript-react-query
 
+## 0.1.2
+
+### Patch Changes
+
+- 3a5cb95f: Make sure mutation variables are always optional
+- Updated dependencies [3a5cb95f]
+  - @graphql-codegen/visitor-plugin-common@1.17.22
+
 ## 0.1.1
 
 ### Patch Changes
